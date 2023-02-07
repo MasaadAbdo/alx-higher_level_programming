@@ -1,0 +1,223 @@
+uthenticity of host 'b0857cc677d7.14772aad.alx-cod.online (44.201.102.222)' can't be established.
+ED25519 key fingerprint is SHA256:NrDbtaiPADHOYlrjvkA9ho5K10ggPvNUvrMrGN8ZVkA.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Could not create directory '/home/Administrator/.ssh' (No such file or directory).
+Failed to add the host to the list of known hosts (/home/Administrator/.ssh/known_hosts).
+b0857cc677d7@b0857cc677d7.14772aad.alx-cod.online's password:
+root@b0857cc677d7:/# cd alx-higher_level_programming/
+root@b0857cc677d7:/alx-higher_level_programming# cd 0x0A-python-inheritance/
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# ls
+0-lookup.py  100-my_int.py  101-add_attribute.py  10-square.py  1-my_list.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 11-square.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 11-square.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 2-is_same_class.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 2-is_same_class.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 3-is_kind_of_class.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 3-is_kind_of_class.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 4-inherits_from.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 4-inherits_from.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 5-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 5-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 6-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 6-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 7-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 7-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 7-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 8-rectangle.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 8-rectangle.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi 9-rectangle.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# chmod u+x 9-rectangle.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# vi README.md
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# git add .
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# git commit -m "ghg"
+[master b5880c6] ghg
+ 15 files changed, 216 insertions(+)
+ create mode 100755 0x0A-python-inheritance/0-lookup.py
+ create mode 100755 0x0A-python-inheritance/1-my_list.py
+ create mode 100755 0x0A-python-inheritance/10-square.py
+ create mode 100755 0x0A-python-inheritance/100-my_int.py
+ create mode 100755 0x0A-python-inheritance/101-add_attribute.py
+ create mode 100755 0x0A-python-inheritance/11-square.py
+ create mode 100755 0x0A-python-inheritance/2-is_same_class.py
+ create mode 100755 0x0A-python-inheritance/3-is_kind_of_class.py
+ create mode 100755 0x0A-python-inheritance/4-inherits_from.py
+ create mode 100755 0x0A-python-inheritance/5-base_geometry.py
+ create mode 100755 0x0A-python-inheritance/6-base_geometry.py
+ create mode 100755 0x0A-python-inheritance/7-base_geometry.py
+ create mode 100755 0x0A-python-inheritance/8-rectangle.py
+ create mode 100755 0x0A-python-inheritance/9-rectangle.py
+ create mode 100644 0x0A-python-inheritance/README.md
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# git push
+Password for 'https://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@github.com':
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (17/17), done.
+Writing objects: 100% (17/17), 3.15 KiB | 3.15 MiB/s, done.
+Total 17 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas: 100% (6/6), completed with 1 local object.
+To https://github.com/MasaadAbdo/alx-higher_level_programming.git
+   43776c4..b5880c6  master -> master
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# ls
+0-lookup.py           11-square.py           4-inherits_from.py  8-rectangle.py
+100-my_int.py         1-my_list.py           5-base_geometry.py  9-rectangle.py
+101-add_attribute.py  2-is_same_class.py     6-base_geometry.py  README.md
+10-square.py          3-is_kind_of_class.py  7-base_geometry.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# mkdir tests
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance# cd tests/
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 0-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 1-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 1-my_list.txt
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 1-my_list.txt
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 10-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 100-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 101-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 11-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 5-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 6-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 6-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 7-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests#
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 7-base_geometry.txt
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 8-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# vi 9-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git add .
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git commit -m "hj"
+[master 5e929b5] hj
+ 13 files changed, 449 insertions(+)
+ create mode 100644 0x0A-python-inheritance/tests/0-main.py
+ create mode 100644 0x0A-python-inheritance/tests/1-main.py
+ create mode 100644 0x0A-python-inheritance/tests/1-my_list.txt
+ create mode 100644 0x0A-python-inheritance/tests/10-main.py
+ create mode 100644 0x0A-python-inheritance/tests/100-main.py
+ create mode 100644 0x0A-python-inheritance/tests/101-main.py
+ create mode 100644 0x0A-python-inheritance/tests/11-main.py
+ create mode 100644 0x0A-python-inheritance/tests/5-main.py
+ create mode 100644 0x0A-python-inheritance/tests/6-main.py
+ create mode 100644 0x0A-python-inheritance/tests/7-base_geometry.txt
+ create mode 100644 0x0A-python-inheritance/tests/7-main.py
+ create mode 100644 0x0A-python-inheritance/tests/8-main.py
+ create mode 100644 0x0A-python-inheritance/tests/9-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git push
+Password for 'https://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@github.com':
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (17/17), done.
+Writing objects: 100% (17/17), 4.08 KiB | 1.36 MiB/s, done.
+Total 17 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 2 local objects.
+To https://github.com/MasaadAbdo/alx-higher_level_programming.git
+   b5880c6..5e929b5  master -> master
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# ls
+0-main.py    10-main.py  1-my_list.txt  7-base_geometry.txt  9-main.py
+100-main.py  11-main.py  5-main.py      7-main.py
+101-main.py  1-main.py   6-main.py      8-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 0-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 1-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 10-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 100-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 101-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 5-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 6-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 7-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 8-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 9-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git add .
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git commit -m "s"
+[master 2e07397] s
+ 10 files changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/0-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/1-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/10-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/100-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/101-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/5-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/6-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/7-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/8-main.py
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/9-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git push
+Password for 'https://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@github.com':
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 376 bytes | 376.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/MasaadAbdo/alx-higher_level_programming.git
+   5e929b5..2e07397  master -> master
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# ls
+0-main.py    10-main.py  1-my_list.txt  7-base_geometry.txt  9-main.py
+100-main.py  11-main.py  5-main.py      7-main.py
+101-main.py  1-main.py   6-main.py      8-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 1-my_list.txt
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# chmod u+x 7-base_geometry.txt
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git add .
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git commit -m "s"
+[master 839f2e5] s
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/1-my_list.txt
+ mode change 100644 => 100755 0x0A-python-inheritance/tests/7-base_geometry.txt
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# ls
+0-main.py    10-main.py  1-my_list.txt  7-base_geometry.txt  9-main.py
+100-main.py  11-main.py  5-main.py      7-main.py
+101-main.py  1-main.py   6-main.py      8-main.py
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# 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
+bash: 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: command not found
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# git push
+Password for 'https://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@github.com':
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 345 bytes | 345.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/MasaadAbdo/alx-higher_level_programming.git
+   2e07397..839f2e5  master -> master
+root@b0857cc677d7:/alx-higher_level_programming/0x0A-python-inheritance/tests# client_loop: send disconnect: Connection reset by peer
+[~]$ ssh 114b8e86f43e@114b8e86f43e.dafdf25f.alx-cod.online
+The authenticity of host '114b8e86f43e.dafdf25f.alx-cod.online (54.209.246.209)' can't be established.
+ED25519 key fingerprint is SHA256:KgX0VVEXBdew0AhswCoxNLx94SXAL0jnk9Vt3VwPyo4.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Could not create directory '/home/Administrator/.ssh' (No such file or directory).
+Failed to add the host to the list of known hosts (/home/Administrator/.ssh/known_hosts).
+114b8e86f43e@114b8e86f43e.dafdf25f.alx-cod.online's password:
+root@114b8e86f43e:/# cd alx-higher_level_programming/
+root@114b8e86f43e:/alx-higher_level_programming# mkdir 0x0B-python-input_output
+root@114b8e86f43e:/alx-higher_level_programming# cd 0x0B-python-input_output
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 0-read_file.py
+iroot@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 1-umber_of_lines.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 10-class_to_json.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 100-append_after.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 101-stats.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 11-student.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 12-student.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 13-student.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 14-pascal_triangle.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 2-read_lines.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 3-write_file.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 4-append_write.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# client_loop: send disconnect: Connection reset by peer
+[~]$ ssh 114b8e86f43e@114b8e86f43e.dafdf25f.alx-cod.online
+The authenticity of host '114b8e86f43e.dafdf25f.alx-cod.online (54.209.246.209)' can't be established.
+ED25519 key fingerprint is SHA256:KgX0VVEXBdew0AhswCoxNLx94SXAL0jnk9Vt3VwPyo4.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Could not create directory '/home/Administrator/.ssh' (No such file or directory).
+Failed to add the host to the list of known hosts (/home/Administrator/.ssh/known_hosts).
+114b8e86f43e@114b8e86f43e.dafdf25f.alx-cod.online's password:
+root@114b8e86f43e:/# cd alx-higher_level_programming/
+root@114b8e86f43e:/alx-higher_level_programming# cd 0x0B-python-input_output/
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 5-to_json_string.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 6-from_json_string.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi 7-save_to_json_file.py
+root@114b8e86f43e:/alx-higher_level_programming/0x0B-python-input_output# vi
+
